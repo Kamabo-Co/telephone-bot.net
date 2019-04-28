@@ -1,0 +1,5 @@
+title: Telephone Bot
+repository: Kamabo-Co/telephone-bot.net
+encoding: UTF-8
+exclude: ["readme.md",Gemfile*,"*.sh","*.cmd"]
+timezone: America/Los_Angeles
