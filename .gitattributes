@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+*.txt	text=true eol=crlf whitespace
+*.md	text=true eol=lf whitespace
